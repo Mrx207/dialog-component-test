@@ -4,7 +4,7 @@ This is a basic React project created with `create-react-app`.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/mrx207/react-project.git`
+1. Clone the repository: `git clone https://github.com/mrx207/dialog-component-test.git`
 2. Install dependencies: `npm install`
 3. Start development server: `npm start`
 
